@@ -1,5 +1,11 @@
 # maquereau-biscuit
 
+Salmon Cookies Part Deux
+
+## UML 
+
+![uml](UML1.png)
+
 ## Project setup
 ```
 npm install
